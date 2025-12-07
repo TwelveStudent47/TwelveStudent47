@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**TwelveStudent47/TwelveStudent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
+I'm a backend-focused **Full-Stack Developer** building modern web applications with scalable architectures and clean code.  
+I enjoy working on server-side logic while keeping a strong connection to the frontend.
 
-Here are some ideas to get you started:
+## 🚧 What am I currently working on?
+- Full-stack web applications using Next.js & Node.js  
+- Improving backend architecture, APIs, and performance  
+- Learning and refining Python & C# alongside JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- React, Next.js, Node.js  
+- Tailwind CSS  
+- JavaScript  
+- Python, C#  
+- Git, GitHub, Linux
+
+## 📫 How to reach me
+My contact and social links are available on my GitHub profile. :D
